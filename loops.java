@@ -4,6 +4,7 @@ public class loops
     {
         int num1=8;
         int num2=7;
+        int num3=10;
 
 
         if(num1>num2)
